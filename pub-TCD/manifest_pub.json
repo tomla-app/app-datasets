@@ -1,0 +1,59 @@
+{
+"List":[
+{
+"publisher_folder_name":["pub-TCD"],
+"dataset_folder_name":["Online_Language_Weblinks_1-0-2"],
+"sheet_name":["Manifest"],
+"col_name_list":["Name metadata field", "Value", "Notes"],
+"row_list":[["Dataset type", "Weblinks", "#"], ["Dataset name", "Online Language Weblinks", "#"], ["Version number", "1.0.2", "#"], ["Version date", "20171212", "#"], ["Author", "TCD", "#"], ["Publisher", "TalenCentrum Defensie", "Dutch Defense Language Center"], ["Publisher short name", "TCD", "#"], ["Organisation", "MOD-NL/DOSCO/NLDA/TCD", "#"], ["E-mail", "#", "#"], ["Content License", "CC-BY-SA", "Creative Commons-By Atrribution-Share Alike; https://creativecommons.org"]]
+}
+,
+{
+"publisher_folder_name":["pub-TCD"],
+"dataset_folder_name":["Militaire_Taalkaarten_MinDef_NL-F-Som_3-0-0"],
+"sheet_name":["Manifest"],
+"col_name_list":["Name metadata field", "Value", "Notes"],
+"row_list":[["Dataset type", "Language card", "#"], ["Dataset name", "Militaire Taalkaarten MinDef NL-F-Som", "Military Language card of the Dutch Ministry of Defence for Dutch-French-Somali."], ["Version number", "3.0.0", "#"], ["Version date", "20160908", "#"], ["Author", "TCD", "#"], ["Publisher", "TalenCentrum Defensie", "Dutch Defense Language Center"], ["Publisher short name", "TCD", "#"], ["Organisation", "MOD-NL/DOSCO/NLDA/TCD", "#"], ["E-mail", "#", "#"], ["Content License", "(C) Copyright MoD-NL", "All rights reserved! This dataset is not for free reuse!"]]
+}
+,
+{
+"publisher_folder_name":["pub-TCD"],
+"dataset_folder_name":["Woordenlijst_Genie_NL-EN_1-0-0"],
+"sheet_name":["Manifest"],
+"col_name_list":["Name metadata field", "Value", "Notes"],
+"row_list":[["Dataset type", "Dictionary", "#"], ["Dataset name", "Woordenlijst Genie NL-EN", "#"], ["Version number", "1.0.0", "#"], ["Version date", "20171005", "#"], ["Author", "TCD", "#"], ["Publisher", "TalenCentrum Defensie", "Dutch Defense Language Center"], ["Publisher short name", "TCD", "#"], ["Organisation", "MOD-NL/DOSCO/NLDA/TCD", "#"], ["E-mail", "#", "#"], ["Content License", "(c) Copyright MoD-NL", "All rights reserved! This dataset is not for free reuse!"]]
+}
+,
+{
+"publisher_folder_name":["pub-TCD"],
+"dataset_folder_name":["Test_Woordenlijst_Genie_NL-EN_Level_en_Label_1-0-0"],
+"sheet_name":["Manifest"],
+"col_name_list":["Name metadata field", "Value", "Notes"],
+"row_list":[["Dataset type", "Dictionary", "#"], ["Dataset name", "Test Woordenlijst Genie NL-EN Level en Label", "Only the  letters A, B and C have Level and Label keywords!"], ["Version number", "1.0.0", "#"], ["Version date", "20180121", "#"], ["Author", "TCD", "#"], ["Publisher", "TalenCentrum Defensie", "Dutch Defense Language Center"], ["Publisher short name", "TCD", "#"], ["Organisation", "MOD-NL/DOSCO/NLDA/TCD", "#"], ["E-mail", "#", "#"], ["Content License", "(c) Copyright MoD-NL", "All rights reserved! This dataset is not for free reuse!"]]
+}
+,
+{
+"publisher_folder_name":["pub-TCD"],
+"dataset_folder_name":["Politiewoordenboek_NL-D_2015_1-0-0"],
+"sheet_name":["Manifest"],
+"col_name_list":["Name metadata field", "Value", "Notes"],
+"row_list":[["Dataset type", "Dictionary", "#"], ["Dataset name", "Politiewoordenboek NL-D 2015", "Police Dictionary Dutch \u2013 German from 2015"], ["Version number", "1.0.0", "#"], ["Version date", "20171005", "#"], ["Author", "Dutch Police", "This dataset was provided by the Dutch police as-is."], ["Publisher", "TalenCentrum Defensie", "Dutch Defense Language Center"], ["Publisher short name", "TCD", "#"], ["Organisation", "MOD-NL/DOSCO/NLDA/TCD", "#"], ["E-mail", "#", "#"], ["Content License", "(c) Copyright MoD-NL", "All rights reserved! This dataset is not for free reuse!"]]
+}
+,
+{
+"publisher_folder_name":["pub-TCD"],
+"dataset_folder_name":["Politiewoordenboek_D-NL_2015_1-0-0"],
+"sheet_name":["Manifest"],
+"col_name_list":["Name metadata field", "Value", "Notes"],
+"row_list":[["Dataset type", "Dictionary", "#"], ["Dataset name", "Politiewoordenboek D-NL 2015", "Police Dictionary German \u2013 Dutch from 2015"], ["Version number", "1.0.0", "#"], ["Version date", "20171005", "#"], ["Author", "Dutch Police", "This dataset was provided by the Dutch police as-is."], ["Publisher", "TalenCentrum Defensie", "Dutch Defense Language Center"], ["Publisher short name", "TCD", "#"], ["Organisation", "MOD-NL/DOSCO/NLDA/TCD", "#"], ["E-mail", "#", "#"], ["Content License", "(c) Copyright MoD-NL", "All rights reserved! This dataset is not for free reuse!"]]
+}
+,
+{
+"publisher_folder_name":["pub-TCD"],
+"dataset_folder_name":["Militaire_Taalkaarten_DoD-US_EN-Som-Kro_3-0-0"],
+"sheet_name":["Manifest"],
+"col_name_list":["Name metadata field", "Value", "Notes"],
+"row_list":[["Dataset type", "Language card", "Test dataset for the TOMLA app."], ["Dataset name", "Militaire Taalkaarten DoD-US EN-Som-Kro", "Military Language card English \u2013 Somali  - Croatic"], ["Version number", "3.0.0", "#"], ["Version date", "20160908", "#"], ["Author", "US DoD", "Copied from paper versions of the DoD language cards."], ["Publisher", "TalenCentrum Defensie", "Dutch Defense Language Center"], ["Publisher short name", "TCD", "#"], ["Organisation", "MOD-NL/DOSCO/NLDA/TCD", "#"], ["E-mail", "#", "#"], ["Content License", "(C) Copyright MoD-NL", "All rights reserved! This dataset is not for free reuse!"]]
+}
+]
+}

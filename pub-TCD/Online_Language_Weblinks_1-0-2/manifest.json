@@ -1,0 +1,5 @@
+{
+"sheet_name":["Manifest"],
+"col_name_list":["Name metadata field", "Value", "Notes"],
+"row_list":[["Dataset type", "Weblinks", "#"], ["Dataset name", "Online Language Weblinks", "#"], ["Version number", "1.0.2", "#"], ["Version date", "20171212", "#"], ["Author", "TCD", "#"], ["Publisher", "TalenCentrum Defensie", "Dutch Defense Language Center"], ["Publisher short name", "TCD", "#"], ["Organisation", "MOD-NL/DOSCO/NLDA/TCD", "#"], ["E-mail", "#", "#"], ["Content License", "CC-BY-SA", "Creative Commons-By Atrribution-Share Alike; https://creativecommons.org"]]
+}
