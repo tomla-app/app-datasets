@@ -1,5 +1,0 @@
-{
-"sheet_name":["Manifest"],
-"col_name_list":["Name metadata field", "Value", "Notes"],
-"row_list":[["Dataset type", "Language card", "#"], ["Dataset name", "Militaire Taalkaarten MinDef NL-F-Som", "Military Language card of the Dutch Ministry of Defence for Dutch-French-Somali."], ["Version number", "3.0.0", "#"], ["Version date", "20160908", "#"], ["Author", "TCD", "#"], ["Publisher", "TalenCentrum Defensie", "Dutch Defense Language Center"], ["Publisher short name", "TCD", "#"], ["Organisation", "MOD-NL/DOSCO/NLDA/TCD", "#"], ["E-mail", "#", "#"], ["Content License", "(C) Copyright MoD-NL", "All rights reserved! This dataset is not for free reuse!"]]
-}

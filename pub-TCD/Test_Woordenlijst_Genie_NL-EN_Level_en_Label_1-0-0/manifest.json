@@ -1,5 +1,0 @@
-{
-"sheet_name":["Manifest"],
-"col_name_list":["Name metadata field", "Value", "Notes"],
-"row_list":[["Dataset type", "Dictionary", "#"], ["Dataset name", "Test Woordenlijst Genie NL-EN Level en Label", "Only the  letters A, B and C have Level and Label keywords!"], ["Version number", "1.0.0", "#"], ["Version date", "20180121", "#"], ["Author", "TCD", "#"], ["Publisher", "TalenCentrum Defensie", "Dutch Defense Language Center"], ["Publisher short name", "TCD", "#"], ["Organisation", "MOD-NL/DOSCO/NLDA/TCD", "#"], ["E-mail", "#", "#"], ["Content License", "(c) Copyright MoD-NL", "All rights reserved! This dataset is not for free reuse!"]]
-}
