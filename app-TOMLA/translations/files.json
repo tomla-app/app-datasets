@@ -8,7 +8,11 @@
 "nl.json":[25361],
 "folder_name":["translations"],
 "folder_size":[106552],
-"fonts_json":[13692]
+},
+{
+	"Folder_name": ["Fonts"],
+	"Folder_size": [13700],
+	"File_list": ["SitiMaesaroh.woff"]
 }
 ]
 }
