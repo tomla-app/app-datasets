@@ -1,0 +1,11 @@
+{
+    "Themes": [{
+        "key": "DarkTheme",
+        "themeFolder": "DarkTheme",
+        "themeFile": "theme.json"
+    }, {
+        "key": "StandardTheme",
+        "themeFolder": "StandardTheme",
+        "themeFile": "theme.json"
+    }]
+}

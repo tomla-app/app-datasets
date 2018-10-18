@@ -1,4 +1,6 @@
-[{
-    "key": "Duits",
-    "fontFile": "SitiMaesaroh.woff"
-}]
+{
+    "Fonts": [{
+        "key": "Duits",
+        "fontFile": "SitiMaesaroh.woff"
+    }]
+}

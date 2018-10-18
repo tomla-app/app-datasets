@@ -9,9 +9,13 @@
 			"folder_size": [106552],
 		},
 		{
-			"Folder_name": ["Fonts"],
+			"Folder_name": ["DarkTheme"],
 			"Folder_size": [13700],
-			"File_list": ["SitiMaesaroh.woff"]
+			"File_list": ["theme.json"]
+		}, {
+			"Folder_name": ["StandardTheme"],
+			"Folder_size": [8888],
+			"File_list": ["theme.json"]
 		}
 	]
 }
