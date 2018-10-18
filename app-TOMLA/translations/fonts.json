@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 {
     "Fonts": [{
         "key": "Duits",
         "fontFile": "SitiMaesaroh.woff"
     }]
 }
+=======
+[{
+    "key": "de",
+    "fontFile": "SitiMaesaroh.woff"
+}]
+>>>>>>> master

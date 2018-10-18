@@ -6,7 +6,11 @@
 			"fr.json": [27874],
 			"nl.json": [25361],
 			"folder_name": ["translations"],
+<<<<<<< HEAD
 			"folder_size": [106552],
+=======
+			"folder_size": [106552]
+>>>>>>> master
 		},
 		{
 			"Folder_name": ["Fonts"],
@@ -14,4 +18,8 @@
 			"File_list": ["SitiMaesaroh.woff"]
 		}
 	]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> master
