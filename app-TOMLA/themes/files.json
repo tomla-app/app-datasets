@@ -11,11 +11,11 @@
 		{
 			"Folder_name": ["DarkTheme"],
 			"Folder_size": [13700],
-			"File_list": ["theme.json"]
+			"File_list": ["theme.json", "tomla-splash-nightvision.svg"]
 		}, {
 			"Folder_name": ["StandardTheme"],
 			"Folder_size": [8888],
-			"File_list": ["theme.json"]
+			"File_list": ["theme.json", "tomla-splash.svg", "camo576x428.svg"]
 		}
 	]
 }
