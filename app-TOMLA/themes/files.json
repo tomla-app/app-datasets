@@ -1,12 +1,8 @@
 {
 	"List": [{
 			"manifest_json": [1055],
-			"de.json": [27406],
-			"en.json": [24856],
-			"fr.json": [27874],
-			"nl.json": [25361],
-			"folder_name": ["translations"],
-			"folder_size": [106552],
+			"files_json": [322],
+			"themes_json": [240]
 		},
 		{
 			"Folder_name": ["DarkTheme"],
