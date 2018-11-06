@@ -11,7 +11,16 @@
 		}, {
 			"Folder_name": ["StandardTheme"],
 			"Folder_size": [8888],
-			"File_list": ["theme.json", "tomla-splash.svg", "camo576x428.svg"]
+			"File_list": ["theme.json", "tomla-splash-camo.svg", "camo576x428.svg"]
+		}, {
+			"Folder_name": ["DesertTheme"],
+			"Folder_size": [8888],
+			"File_list": ["theme.json", "desert-camo.svg", "splashscreen-camo.svg"]
+		},
+		{
+			"Folder_name": ["TweetyTheme"],
+			"Folder_size": [8888],
+			"File_list": ["theme.json"]
 		}
 	]
 }
