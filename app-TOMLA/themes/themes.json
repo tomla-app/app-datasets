@@ -4,8 +4,8 @@
         "themeFolder": "DarkTheme",
         "themeFile": "theme.json"
     }, {
-        "key": "StandardTheme",
-        "themeFolder": "StandardTheme",
+        "key": "CamoTheme",
+        "themeFolder": "CamoTheme",
         "themeFile": "theme.json"
     }, {
         "key": "DesertTheme",
