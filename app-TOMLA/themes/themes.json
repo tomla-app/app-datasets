@@ -1,19 +1,23 @@
 {
-    "Themes": [{
-        "key": "DarkTheme",
-        "themeFolder": "DarkTheme",
-        "themeFile": "theme.json"
-    }, {
-        "key": "CamoTheme",
-        "themeFolder": "CamoTheme",
-        "themeFile": "theme.json"
-    }, {
-        "key": "DesertTheme",
-        "themeFolder": "DesertTheme",
-        "themeFile": "theme.json"
-    }, {
-        "key": "TweetyTheme",
-        "themeFolder": "TweetyTheme",
-        "themeFile": "theme.json"
-    }]
+	"Themes": [{
+		"key": "DarkTheme",
+		"themeFolder": "DarkTheme",
+		"themeFile": "theme.json"
+	}, {
+		"key": "CamoTheme",
+		"themeFolder": "CamoTheme",
+		"themeFile": "theme.json"
+	}, {
+		"key": "DesertTheme",
+		"themeFolder": "DesertTheme",
+		"themeFile": "theme.json"
+	}, {
+		"key": "TweetyTheme",
+		"themeFolder": "TweetyTheme",
+		"themeFile": "theme.json"
+	}, {
+		"key": "StandardTheme",
+		"themeFolder": "StandardTheme",
+		"themeFile": "theme.json"
+	}]
 }
