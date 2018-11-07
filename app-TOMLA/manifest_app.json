@@ -25,7 +25,7 @@
             "row_list": [
                 ["Dataset type", "Translations", "#"],
                 ["Dataset name", "translations", "This are NL, DE, EN and FR i18n files, for the TOMLA UI."],
-                ["Version number", "1.0.0", "Also intended to test the 2 TOMLA multimedia dataset types with multimedia files."],
+                ["Version number", "1.0.1", "Also intended to test the 2 TOMLA multimedia dataset types with multimedia files."],
                 ["Version date", "20181018", "#"],
                 ["Author", "TOMLA", "#"],
                 ["Publisher", "TOMLA", "The Offline Multi-functional Language App"],
