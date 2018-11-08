@@ -1,0 +1,11 @@
+{
+	"Themes": [{
+		"key": "CamoTheme",
+		"themeFolder": "CamoTheme",
+		"themeFile": "theme.json"
+	}, {
+		"key": "TweetyTheme",
+		"themeFolder": "TweetyTheme",
+		"themeFile": "theme.json"
+	}]
+}
