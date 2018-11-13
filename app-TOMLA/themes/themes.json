@@ -16,8 +16,8 @@
 		"themeFolder": "TweetyTheme",
 		"themeFile": "theme.json"
 	}, {
-		"key": "StandardTheme",
-		"themeFolder": "StandardTheme",
+		"key": "RoyalOrangeTheme",
+		"themeFolder": "RoyalOrangeTheme",
 		"themeFile": "theme.json"
 	}]
 }

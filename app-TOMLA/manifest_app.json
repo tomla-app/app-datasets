@@ -6,9 +6,9 @@
             "col_name_list": ["Name metadata field", "Value", "Notes"],
             "row_list": [
                 ["Dataset type", "Themes", "#"],
-                ["Dataset name", "App themes", "Themes for the TOMLA app"],
-                ["Version number", "1.0.0", "#"],
-                ["Version date", "20181018", "#"],
+                ["Dataset name", "themes", "Themes for the TOMLA app"],
+                ["Version number", "1.1.0", "#"],
+                ["Version date", "20181114", "#"],
                 ["Author", "TOMLA", "#"],
                 ["Publisher", "TOMLA", "The Offline Multi-functional Language App"],
                 ["Publisher short name", "TOMLA", "#"],

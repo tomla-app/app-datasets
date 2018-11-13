@@ -21,6 +21,11 @@
 			"Folder_name": ["TweetyTheme"],
 			"Folder_size": [8888],
 			"File_list": ["theme.json"]
+		},
+		{
+			"Folder_name": ["RoyalOrangeTheme"],
+			"Folder_size": [8888],
+			"File_list": ["theme.json", "tomla-splash.svg"]
 		}
 	]
 }
