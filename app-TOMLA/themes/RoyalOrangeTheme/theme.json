@@ -1,6 +1,6 @@
 {
     "name": "Standard theme",
-    "contentBackgroundColor": "white",
+    "contentBackgroundColor": "#FFB07A",
     "contentItemBackgroundColor": "white",
     "contentTextColor": "black",
     "cardBackgroundColor": "white",
@@ -44,7 +44,7 @@
     "columnSubHeaderColor": "#df6e22",
     "selectTextColor": "black",
     "selectIconColor": "black",
-    "intoBgColor": "white",
+    "intoBgColor": "#FFB07A",
     "intoTextColor": "black",
     "loadingSpinnerColor": "#df6e22",
     "segmentTextColor": "white",
