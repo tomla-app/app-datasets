@@ -12,7 +12,10 @@
     "SETTINGS": "Einstellungen",
     "MANUAL": "Gebrauchsanleitung",
     "QUICK_START_GUIDE": "Schnellstartführer",
-    "DISCLAIMER": "Nutzungsbedingungen"
+    "DISCLAIMER": "Nutzungsbedingungen",
+    "PUBLISHERS": "",
+    "THEMES": "",
+    "TRANSLATIONS": ""
   },
   "MAIN_MENU": {
     "MENU_TITLE": "Hauptmenü",
@@ -33,6 +36,7 @@
   },
   "QUICK_START_GUIDE": {
     "WELCOME_TITLE": "Willkommen",
+    "FIRST_START_TITLE": "",
     "WELCOME_HEADER_1": "Wozu dient diese App?",
     "WELCOME_PARAGRAPH_1": "Die TOMLA App, The Offline Multifunctional Language App, ist geeignet für Sprachtraining und Sprachnachschlagewerk für Offline-Nutzung. Mit dem Sprachtraining können Sie für Wörter und Sätze, die in Kategorien eingeteilt sind, das Vokabular trainieren. Für das Sprachtraining können Sie auf unterschiedliche Weise diese Wörter und Sätze üben: mit dem Mehrwahltraining in einem Quiz mit beliebig gewählten Bezeichnungen und mit dem Schreibtraining im Tippen einer Bezeichnung in einer Fremdsprache. Darüber hinaus können Sie nach Bezeichnungen suchen.",
     "WELCOME_HEADER_2": "Flexibel anzupassen.",
@@ -156,7 +160,12 @@
     "DATASET_LABEL_SOURCE": "Quelle",
     "DATASET_LABEL_TARGET": "Ziel",
     "BUTTONS_SELECT_DATASET": "Datensatz wählen",
-    "BUTTONS_MANAGE_DATASET": "Datensätze verwalten"
+    "BUTTONS_MANAGE_DATASET": "Datensätze verwalten",
+    "CHECK_FOR_UPDATES": "",
+    "CHECK_NOW_FOR_UPDATES": "",
+    "EDIT_THEME": "",
+    "CHECK_UPDATES_DIALOG_TITLE": "",
+    "CHECK_UPDATES_DIALOG_TEXT": ""
   },
   "CATEGORIES": {
     "RESULTS": "Ergebnisse",
@@ -186,7 +195,24 @@
     "RESULT_SCORE_6": "Ausreichend, versuchen Sie, mehr zu üben",
     "RESULT_SCORE_7": "Befriedigend, machen Sie weiter so!",
     "RESULT_SCORE_8": "Sehr gut, machen Sie weiter so!",
-    "RESULT_SCORE_9": "Ausgezeichnet, machen Sie weiter so!"
+    "RESULT_SCORE_9": "Ausgezeichnet, machen Sie weiter so!",
+    "CHOICE_TYPE": "",
+    "CHOICE_TYPE_ANSWER_1": "",
+    "CHOICE_TYPE_ANSWER_2": "",
+    "REPEAT_QUESTIONS": "",
+    "REPEAT_QUESTIONS_ANSWER_1": "",
+    "REPEAT_QUESTIONS_ANSWER_2": "",
+    "SELECT_TRAININGSET_TITLE": "",
+    "SELECT_TRAININGSET_TEXT": "",
+    "TRANSLATION_OF": "",
+    "TO": "",
+    "DATASET_OWNER": "",
+    "WHAT_IS_THE": "",
+    "OF": "",
+    "ANSWER": "",
+    "QUIT_TRAINING": "",
+    "CREATED": "",
+    "ALREADY_EXIST": ""
   },
   "BUTTONS": {
     "OK": "OK",
@@ -208,7 +234,12 @@
     "TRAINING_SETS": "Trainingsets",
     "TRAINING_BACK": "Zurück zur Hauptseite",
     "TRAINING_BACK_TRAINING": "Zurück zum Training",
-    "TRAINING_SAVE": "Training speichern"
+    "TRAINING_SAVE": "Training speichern",
+    "INFORMATION": "",
+    "REMOVE": "",
+    "DOWNLOAD_MULTMEDIA": "",
+    "MULTIMEDIA_BLACKLIST": "",
+    "GO_UPDATES": ""
   },
   "WARNINGS": {
     "STORAGE_TITLE": "Speicher ungenügend",
@@ -251,7 +282,22 @@
     "MISSING_SUBTITLE": "Bitte kontaktieren Sie den Herausgeber",
     "TRAINING_SAVE_TITLE": "Training speichern",
     "TRAINING_SAVE_INPUT_PLACEHOLDER": "Geben Sie einen Namen für das Trainingsset ein",
-    "LINK_403": "Zugriff verweigert für Weblink, bitte dem Herausgeber um den korrekte Weblink"
+    "LINK_403": "Zugriff verweigert für Weblink, bitte dem Herausgeber um den korrekte Weblink",
+    "NO_DATASET_ROWS": "",
+    "TRAINING_UNDER_LIMIT": "",
+    "TRAINING_UNDER_LIMIT_TEXT": "",
+    "TRAINING_ABOVE_LIMIT": "",
+    "TRAINING_ABOVE_LIMIT_TEXT": "",
+    "TRAINING_NOT_ENOUGH_QUESTIONS": "",
+    "TRAINING_NOT_ENOUGH_QUESTIONS_TEXT": "",
+    "TRAINING_NOT_ALLOWED_INPUT": "",
+    "TRAINING_NOT_ALLOWED_INPUT_TEXT": "",
+    "NO_TRAININGSETS_TITLE": "",
+    "NO_TRAININGSETS_CONTENT": "",
+    "START_QUIZ_LATER": "",
+    "START_QUIZ_LATER_TEXT": "",
+    "ALREADY_EXIST": "",
+    "NO_PUBLISHER": ""
   },
   "LINKS": {
     "NO_CONNECTION": "Keine Internetverbindung",
@@ -271,7 +317,22 @@
     "EXTRA_INFORMATION": "Zusätzliche Informationen",
     "LEVEL": "Niveau",
     "LABEL": "Label",
-    "NOTES": "Notizen"
+    "NOTES": "Notizen",
+    "LEVELS": "",
+    "LABELS": "",
+    "IMAGES": "",
+    "VIDEOS": ""
+  },
+  "GENERAL": {
+    "FILTERING": "",
+    "LOADING": "",
+    "REMOVE": "",
+    "DOWNLOAD_DATASET": "",
+    "UPDATED": "",
+    "UPDATE": "",
+    "UPDATES": "",
+    "REFRESH_DATASET": "",
+    "CHECKING_FOR_UPDATES": ""
   }
 }
 }

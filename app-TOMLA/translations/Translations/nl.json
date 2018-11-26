@@ -12,7 +12,10 @@
       "SETTINGS": "Instellingen",
       "MANUAL": "Handleiding",
       "QUICK_START_GUIDE": "Snelstartgids",
-      "DISCLAIMER": "Gebruiksvoorwaarden"
+      "DISCLAIMER": "Gebruiksvoorwaarden",
+      "PUBLISHERS": "Uitgevers",
+      "THEMES": "Themas",
+      "TRANSLATIONS": "Vertalingen"
     },
     "MAIN_MENU": {
       "MENU_TITLE": "Hoofdmenu",
@@ -33,6 +36,7 @@
     },
     "QUICK_START_GUIDE": {
       "WELCOME_TITLE": "Welkom",
+      "FIRST_START_TITLE": "We maken de app klaar voor eerste gebruik…",
       "WELCOME_HEADER_1": "Waar is deze app voor?",
       "WELCOME_PARAGRAPH_1": "De TOMLA app, The Offline Multifunctional Language App, is geschikt voor taaltraining en taalnaslag voor offline gebruik. Met de taaltraining kunt u vocabulaire trainen voor woordjes en zinnen die zijn ingedeeld in categorieën. Voor de taaltraining kunt u op verschillende manieren deze woorden en zinnen oefenen: met de meerkeuzetraining in een quiz met willekeurig gekozen termen en met de schrijftraining in het typen van een term in een vreemde taal. Daarnaast kunt u zoeken naar termen.",
       "WELCOME_HEADER_2": "Flexibel aan te passen.",
@@ -94,7 +98,7 @@
       "TRAINING_SAVE_TITLE": "Trainingsets opslaan",
       "TRAINING_SAVE_BODY_PARAGRAPH1": "Als u een training bent gestart of hebt afgerond kunt u deze opslaan in een trainingset. Een training kunt u op een later tijdstip weer opnieuw doen. Klik op de ‘Maak trainingset’-knop om een trainingset te maken en deze een naam te geven. U krijgt een foutmelding indien de naam van de trainingset al bestaat.",
       "TRAININGSET_TITLE": "Trainingsets",
-      "TRAININGSET_BODY_PARAGRAPH1": "Op deze pagina kunt u de gemaakte trainingsets beheren en er staat informatie over iedere trainingset.  Klik op de titel van een trainingset om deze te starten. Klik op het ‘informatie’-icoon rechts van de titel voor meer informatie over de trainingset en om deze te kunnen verwijderen.",
+      "TRAININGSET_BODY_PARAGRAPH1": "Op deze pagina kunt u de gemaakte trainingsets beheren en er staat informatie over iedere trainingset.  Klik op de titel van een trainingset om deze te starten. Klik op het ‘informatie’-icoon rechts van de titel voor meer informatie over de trainingset en om deze te kunnen verwijderen.",
       "WEBLINKS_SELECT_TITLE": "Selecteer online weblinks",
       "WEBLINKS_SELECT_BODY_PARAGRAPH1": "U kunt in dit scherm de keuze aanpassen voor een dataset van online weblinks. Het installeren van een dataset met online weblinks gebeurt in 3 stappen.",
       "WEBLINKS_SELECT_BODY_LIST_ITEM1": "De eerste stap is het toevoegen van de uitgever.",
@@ -116,7 +120,7 @@
       "OTHERMENU_TITLE": "Overig menu (Other)",
       "OTHERMENU_BODY_PARAGRAPH1": "Het ‘Overig’-menu is te openen door rechtsboven te klikken op de menuknop ‘Overig’ (de drie stippen boven elkaar). U kunt het menu ook openen door met uw vinger van rechts naar links te vegen.",
       "SETTINGS_TITLE": "Instellingen",
-      "SETTINGS_BODY_PARAGRAPH1": "De menukeuze ‘Instellingen’ bevat de algemene instellingen van de app en de menukeuzes ‘Dataset selecteren’ en ‘Datasets beheren’.In de ‘Algemene instellingen’ kan de taalkeuze voor de app worden ingesteld; ook kan hier worden ingesteld of de app updates voor de datasets automatisch mag uitvoeren en of de app mobiel internet mag gebruiken. De menukeuze ‘Instellingen’ heeft ook de knop ‘Dataset selecteren’ en deze heeft dezelfde functie als de menukeuze ‘Dataset selecteren’ in het hoofdmenu.",
+      "SETTINGS_BODY_PARAGRAPH1": "De menukeuze ‘Instellingen’ bevat de algemene instellingen van de app en de menukeuzes ‘Dataset selecteren’ en ‘Datasets beheren’. In de ‘Algemene instellingen’ kan de taalkeuze voor de app worden ingesteld; ook kan hier worden ingesteld of de app updates voor de datasets automatisch mag uitvoeren en of de app mobiel internet mag gebruiken. De menukeuze ‘Instellingen’ heeft ook de knop ‘Dataset selecteren’ en deze heeft dezelfde functie als de menukeuze ‘Dataset selecteren’ in het hoofdmenu.",
       "SETTINGS_BODY_PARAGRAPH2": "Het toevoegen van een uitgever van een dataset gaat op dezelfde wijze als het toevoegen van een dataset met weblinks via het ‘plus’-teken icoontje rechtsboven in het menu ‘Instellingen’.",
       "SETTINGS_BODY_LIST_ITEM1": "Het advies is om datasets alleen te downloaden via een wifi-verbinding om onnodige kosten op een   abonnement voor mobiele data te voorkomen. De gebruiker kan in de app kiezen voor de instelling ‘Gebruik mobiele data’ als downloaden via een mobiel data abonnement wel is gewenst.",
       "SETTINGS_BODY_LIST_ITEM2": "Houd er rekening mee dat datasets en eventuele multimediabestanden, zoals audio en afbeeldingen, tot een langere downloadtijd kunnen leiden. De gebruiker krijgt de keuze om de beschikbare multimediabestanden wel of niet te downloaden bij de geselecteerde dataset.",
@@ -128,7 +132,7 @@
       "DISCLAIMER_BODY_PARAGRAPH1": "Op de Over ons-pagina staan de auteursrechten (copyright), de algemene voorwaarden (conditions) en de disclaimer."
     },
     "DISCLAIMER": {
-      "COPYRIGHT_TITLE": "Autheursrechten",
+      "COPYRIGHT_TITLE": "Auteursrechten",
       "COPYRIGHT_PARAGRAPH_1": "Tenzij anders vermeld is op de inhoud van deze mobiele applicatie de verklaring 'Creative Commons zero' (CC0) van toepassing. Dat houdt in dat iedere vorm van hergebruik van de inhoud van deze applicatie is toegestaan, tenzij bij of in een bepaald onderdeel (bijvoorbeeld een foto of een document) staat aangegeven dat op dat onderdeel een auteursrechtelijke uitzondering van toepassing is.",
       "COPYRIGHT_PARAGRAPH_2": "Bij hergebruik van de inhoud van deze mobiele applicatie is naamsvermelding verplicht. Bij gebruik van beeldmateriaal (foto en video) de naam 'Ministerie van Defensie' als bron vermelden. Voorts mag bij het citeren van de inhoud niet de indruk worden gewekt dat het ministerie van Defensie zonder meer de strekking van het afgeleide werk onderschrijft.",
       "COPYRIGHT_PARAGRAPH_3": "De volgende rechten worden door de CC0-verklaring niet gewijzigd en blijven dus van kracht:",
@@ -144,7 +148,7 @@
       "DISCLAIMER_PARAGRAPH_2": "Deze applicatie slaat geen persoonlijke informatie op.",
       "DISCLAIMER_PARAGRAPH_3": "Het ministerie van Defensie stelt de mobiele applicatie met de grootst mogelijke zorg beschikbaar ten behoeve van gebruikers, maar garandeert niet dat deze vrij zal zijn van virussen, noch dat de mobiele applicatie te allen tijde beschikbaar is en foutloos zal werken. Ondanks de constante zorg en aandacht die aan de samenstelling van deze applicatie wordt besteed, is het mogelijk dat informatie die hier wordt gepubliceerd onvolledig of onjuist is. Het ministerie van Defensie behoudt zich het recht voor om de inhoud van deze mobiele applicatie en de tekst van deze pagina op elk gewenst moment naar eigen inzicht te wijzigen.",
       "DISCLAIMER_PARAGRAPH_4": "Deze App is ontwikkeld door het TCD van de Nederlandse Defensie Academie.",
-      "DISCLAIMER_PARAGRAPH_5": "App versie 1.0 - 2017, © Copyright Ministerie van Defensie, alle rechten voorbehouden."
+      "DISCLAIMER_PARAGRAPH_5": "App versie 1.0 – 2018, © Copyright Ministerie van Defensie, alle rechten voorbehouden."
     },
     "SETTINGS": {
       "GENERAL_TITLE": "Algemeen",
@@ -156,7 +160,12 @@
       "DATASET_LABEL_SOURCE": "Bron",
       "DATASET_LABEL_TARGET": "Doel",
       "BUTTONS_SELECT_DATASET": "Selecteer dataset",
-      "BUTTONS_MANAGE_DATASET": "Beheer datasets"
+      "BUTTONS_MANAGE_DATASET": "Beheer datasets",
+      "CHECK_FOR_UPDATES": "Controlleer op updates",
+      "CHECK_NOW_FOR_UPDATES": "Controlleer nu op updates",
+      "EDIT_THEME": "Thema aanpassen",
+      "CHECK_UPDATES_DIALOG_TITLE": "Eerste keer starten van de app",
+      "CHECK_UPDATES_DIALOG_TEXT": "Je hebt updates! Wil je ze bekijken?"
     },
     "CATEGORIES": {
       "RESULTS": "Resultaten",
@@ -186,7 +195,24 @@
       "RESULT_SCORE_6": "Voldoende, probeer meer te oefenen",
       "RESULT_SCORE_7": "Ruim voldoende, ga zo door!",
       "RESULT_SCORE_8": "Zeer goed, ga zo door!",
-      "RESULT_SCORE_9": "Uitstekend, ga zo door!"
+      "RESULT_SCORE_9": "Uitstekend, ga zo door!",
+      "CHOICE_TYPE": "Meerkeuze of schrijftraining",
+      "CHOICE_TYPE_ANSWER_1": "Meerkeuze",
+      "CHOICE_TYPE_ANSWER_2": "Schrijven",
+      "REPEAT_QUESTIONS": "Herhaal fout gewantwoorde vragen",
+      "REPEAT_QUESTIONS_ANSWER_1": "Ja",
+      "REPEAT_QUESTIONS_ANSWER_2": "Nee",
+      "SELECT_TRAININGSET_TITLE": "Trainingsets",
+      "SELECT_TRAININGSET_TEXT": "Selecteer trainingsset",
+      "TRANSLATION_OF": "Vertaling van:",
+      "TO": "Naar:",
+      "DATASET_OWNER": "De dataset is van:",
+      "WHAT_IS_THE": "Wat is de",
+      "OF": "van",
+      "ANSWER": "Antwoord",
+      "QUIT_TRAINING": "Sluit training",
+      "CREATED": "Trainingset is aangemaakt",
+      "ALREADY_EXIST": ""
     },
     "BUTTONS": {
       "OK": "OK",
@@ -202,13 +228,18 @@
       "TRAINING_STOP": "Stop training",
       "TRAINING_RESULTS": "Resultaten",
       "TRAINING_NEXT": "Volgende vraag",
-      "TRAINING_SKIP": "Vraag opslaan",
+      "TRAINING_SKIP": "Vraag overslaan",
       "TRAINING_START": "Start training",
       "TRAINING_CONTINUE": "Training hervatten",
       "TRAINING_SETS": "Trainingsets",
       "TRAINING_BACK": "Terug naar hoofdscherm",
       "TRAINING_BACK_TRAINING": "Terug naar training",
-      "TRAINING_SAVE": "Trainingset opslaan"
+      "TRAINING_SAVE": "Trainingset opslaan",
+      "INFORMATION": "Informatie",
+      "REMOVE": "Verwijderen",
+      "DOWNLOAD_MULTMEDIA": "Download multimedia",
+      "MULTIMEDIA_BLACKLIST": "Multimedia zwartelijst",
+      "GO_UPDATES": "Ga naar updates"
     },
     "WARNINGS": {
       "STORAGE_TITLE": "Niet genoeg opslag",
@@ -238,7 +269,7 @@
       "DATASET_NOT_SELECTED_TITLE": "Dataset is niet geselecteerd",
       "DATASET_ADJUST_TITLE": "Dataset is aangepast",
       "DATASET_ADJUST_SUBTITLE": "Wilt u de dataset standaard opnieuw opbouwen?",
-      "DATASET_ADJUST_MESSAGE": "Als u op nee drukt, moet u dat zelf doen via het instellingen menu",
+      "DATASET_ADJUST_MESSAGE": "Als u op nee drukt, moet u dat zelf handmatig doen via het instellingen menu",
       "DATASET_DOWNLOAD_SUCCESS": "was succesvol gedownload",
       "DATASET_DOWNLOAD_FAIL": "download is niet gelukt",
       "INTRO_TITLE": "Snelstart verlaten",
@@ -251,8 +282,22 @@
       "MISSING_SUBTITLE": "Neem contact op met de uitgever",
       "TRAINING_SAVE_TITLE": "Training opslaan",
       "TRAINING_SAVE_INPUT_PLACEHOLDER": "Vul een naam in voor de trainingset",
-      "LINK_403": "Toegang tot link geweigerd, vraag de uitgever om de correcte weblink alstublieft",
-      "NO_PUBLISHER": "Ga naar instellingen om eerst een uitgever toe te voegen (Via de knop 'Beheer datasets'."
+      "LINK_403": "Toegang geweigerd voor weblink, vraag de uitgever alstublieft om de correcte weblink",
+      "NO_DATASET_ROWS": "Selecteer een andere categorie of probeer een ander zoekfilter. In deze staan geen woorden.",
+      "TRAINING_UNDER_LIMIT": "Onder limiet",
+      "TRAINING_UNDER_LIMIT_TEXT": "Geef een limiet onder of gelijk aan:",
+      "TRAINING_ABOVE_LIMIT": "Boven limiet",
+      "TRAINING_ABOVE_LIMIT_TEXT": "Geef een limiet boven of gelijk aan:",
+      "TRAINING_NOT_ENOUGH_QUESTIONS": "Niet genoeg vragen",
+      "TRAINING_NOT_ENOUGH_QUESTIONS_TEXT": "De gekozen moeilijkheidsgraad bevat niet genoeg vragen om een quiz te starten.",
+      "TRAINING_NOT_ALLOWED_INPUT": "Onjuiste invoer.",
+      "TRAINING_NOT_ALLOWED_INPUT_TEXT": "Voer een nummer in",
+      "NO_TRAININGSETS_TITLE": "Geen trainingsets",
+      "NO_TRAININGSETS_CONTENT": "Er is momenteel geen trainingsets aanwezig.",
+      "START_QUIZ_LATER": "Quiz later doorgaan",
+      "START_QUIZ_LATER_TEXT": "De oude opslag wordt dan gewist",
+      "ALREADY_EXIST": "Bestaat al",
+      "NO_PUBLISHER": "Selecteer eerst een dataset in het instellingen menu."
     },
     "LINKS": {
       "NO_CONNECTION": "Geen internetverbinding",
@@ -263,16 +308,31 @@
       "SETS": "Taalsets",
       "AUDIO": "Audio",
       "EXTRA_INFORMATION": "Extra informatie",
-      "LEVEL": "Niveau",
-      "LABEL": "Label",
-      "NOTES": "Notitie"
+      "LEVEL": "Moeilijkheidsgraad",
+      "LABEL": "Trefwoord",
+      "NOTES": "Notities"
     },
     "WORD_DETAIL": {
       "AUDIO": "Audio",
       "EXTRA_INFORMATION": "Extra informatie",
       "LEVEL": "Niveau",
       "LABEL": "Label",
-      "NOTES": "Notities"
+      "NOTES": "Notities",
+      "LEVELS": "Niveaus",
+      "LABELS": "Labels",
+      "IMAGES": "Afbeeldingen",
+      "VIDEOS": "Videos"
+    },
+    "GENERAL": {
+      "FILTERING": "Filteren",
+      "LOADING": "Laden…",
+      "REMOVE": "Verwijderen",
+      "DOWNLOAD_DATASET": "Dataset downloaden…",
+      "UPDATED": "Bijgewerkt",
+      "UPDATE": "Update",
+      "UPDATES": "Updates",
+      "REFRESH_DATASET": "Vernieuw dataset…",
+      "CHECKING_FOR_UPDATES": "Controlleer op updates…"
     }
   }
 }

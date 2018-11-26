@@ -7,8 +7,8 @@
             "row_list": [
                 ["Dataset type", "Themes", "#"],
                 ["Dataset name", "App themes", "Themes for the TOMLA app"],
-                ["Version number", "1.1.5", "#"],
-                ["Version date", "20181114", "#"],
+                ["Version number", "1.0.0", "#"],
+                ["Version date", "20181018", "#"],
                 ["Author", "TOMLA", "#"],
                 ["Publisher", "TOMLA", "The Offline Multi-functional Language App"],
                 ["Publisher short name", "TOMLA", "#"],

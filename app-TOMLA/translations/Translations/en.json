@@ -12,7 +12,10 @@
     "SETTINGS": "Settings",
     "MANUAL": "Manual",
     "QUICK_START_GUIDE": "Quick Start Guide",
-    "DISCLAIMER": "Disclaimer"
+    "DISCLAIMER": "Disclaimer",
+    "PUBLISHERS": "Publishers",
+    "THEMES": "Themes",
+    "TRANSLATIONS": "Translations"
   },
   "MAIN_MENU": {
     "MENU_TITLE": "Main Menu",
@@ -33,6 +36,7 @@
   },
   "QUICK_START_GUIDE": {
     "WELCOME_TITLE": "Welcome",
+    "FIRST_START_TITLE": "We make the app ready for first use…",
     "WELCOME_HEADER_1": "What is this app for?",
     "WELCOME_PARAGRAPH_1": "The TOMLA app, the Offline Multifunctional Language App, is suitable for offline language training and as a language resource. Using the language training, you can train words and sentences that are divided into categories. During the language training sessions, you can practise these words and sentences in various ways: by means of multiple-choice training in a quiz of terms chosen at random and by typing in foreign words during the written training. You can also search for terms.",
     "WELCOME_HEADER_2": "Easy to amend.",
@@ -156,7 +160,12 @@
     "DATASET_LABEL_SOURCE": "Source language",
     "DATASET_LABEL_TARGET": "Target language",
     "BUTTONS_SELECT_DATASET": "Select dataset",
-    "BUTTONS_MANAGE_DATASET": "Manage dataset"
+    "BUTTONS_MANAGE_DATASET": "Manage dataset",
+    "CHECK_FOR_UPDATES": "Check for updates",
+    "CHECK_NOW_FOR_UPDATES": "Check now for updates",
+    "EDIT_THEME": "Edit theme",
+    "CHECK_UPDATES_DIALOG_TITLE": "First time starting the app",
+    "CHECK_UPDATES_DIALOG_TEXT": "You got updates! Do you want to check them?"
   },
   "CATEGORIES": {
     "RESULTS": "Results",
@@ -186,7 +195,24 @@
     "RESULT_SCORE_6": "Sufficient, try to practice more",
     "RESULT_SCORE_7": "Ample, keep going!",
     "RESULT_SCORE_8": "Above par, keep going!",
-    "RESULT_SCORE_9": "Flawless, keep going!"
+    "RESULT_SCORE_9": "Flawless, keep going!",
+    "CHOICE_TYPE": "Multiplechoice or write training",
+    "CHOICE_TYPE_ANSWER_1": "Multiplechoice",
+    "CHOICE_TYPE_ANSWER_2": "Writing",
+    "REPEAT_QUESTIONS": "Repeat false answered questions",
+    "REPEAT_QUESTIONS_ANSWER_1": "Yes",
+    "REPEAT_QUESTIONS_ANSWER_2": "No",
+    "SELECT_TRAININGSET_TITLE": "Trainingsets",
+    "SELECT_TRAININGSET_TEXT": "Select trainingset",
+    "TRANSLATION_OF": "Translation of:",
+    "TO": "To:",
+    "DATASET_OWNER": "The dataset is owned by:",
+    "WHAT_IS_THE": "What is the",
+    "OF": "of",
+    "ANSWER": "Answer",
+    "QUIT_TRAINING": "Quit training",
+    "CREATED": "Trainingset has been created",
+    "ALREADY_EXIST": ""
   },
   "BUTTONS": {
     "OK": "OK",
@@ -208,7 +234,12 @@
     "TRAINING_SETS": "Training sets",
     "TRAINING_BACK": "Back to homescreen",
     "TRAINING_BACK_TRAINING": "Back to training",
-    "TRAINING_SAVE": "Save trainingset"
+    "TRAINING_SAVE": "Save trainingset",
+    "INFORMATION": "Information",
+    "REMOVE": "Delete",
+    "DOWNLOAD_MULTMEDIA": "Download multimedia",
+    "MULTIMEDIA_BLACKLIST": "Multimedia blacklist",
+    "GO_UPDATES": "Go to update"
   },
   "WARNINGS": {
     "STORAGE_TITLE": "Not enough storage",
@@ -251,7 +282,22 @@
     "MISSING_SUBTITLE": "Please contact the pubisher",
     "TRAINING_SAVE_TITLE": "Save training",
     "TRAINING_SAVE_INPUT_PLACEHOLDER": "Enter a name for the trainingset",
-    "LINK_403": "Access denied for weblink, please ask the publisher for the correct weblink"
+    "LINK_403": "Access denied for weblink, please ask the publisher for the correct weblink",
+    "NO_DATASET_ROWS": "Select another category or try another searchword, there are no results for this filter.",
+    "TRAINING_UNDER_LIMIT": "Under limit",
+    "TRAINING_UNDER_LIMIT_TEXT": "Give a limit under or equal to:",
+    "TRAINING_ABOVE_LIMIT": "Above limit",
+    "TRAINING_ABOVE_LIMIT_TEXT": "Give a limit above or equal to:",
+    "TRAINING_NOT_ENOUGH_QUESTIONS": "Not enough questions",
+    "TRAINING_NOT_ENOUGH_QUESTIONS_TEXT": "The chosen difficulty does not have enough questions to start a quiz.",
+    "TRAINING_NOT_ALLOWED_INPUT": "Invalid input.",
+    "TRAINING_NOT_ALLOWED_INPUT_TEXT": "Input has to be a number.",
+    "NO_TRAININGSETS_TITLE": "No traininsets.",
+    "NO_TRAININGSETS_CONTENT": "There are no traingsets at this moment.",
+    "START_QUIZ_LATER": "Continue quiz at a later moment",
+    "START_QUIZ_LATER_TEXT": "The old storage will be deleted",
+    "ALREADY_EXIST": "Already exists",
+    "NO_PUBLISHER": "First select a dataset inside settings"
   },
   "LINKS": {
     "NO_CONNECTION": "No internet connection",
@@ -271,7 +317,22 @@
     "EXTRA_INFORMATION": "Extra information",
     "LEVEL": "Level",
     "LABEL": "Label",
-    "NOTES": "Notes"
+    "NOTES": "Notes",
+    "LEVELS": "Levels",
+    "LABELS": "Labels",
+    "IMAGES": "Images",
+    "VIDEOS": "Videos"
+  },
+  "GENERAL": {
+    "FILTERING": "Filtering",
+    "LOADING": "Loading…",
+    "REMOVE": "Remove",
+    "DOWNLOAD_DATASET": "Downloading dataset…",
+    "UPDATED": "Up to date!",
+    "UPDATE": "Update",
+    "UPDATES": "Updates",
+    "REFRESH_DATASET": "Refreshing dataset…",
+    "CHECKING_FOR_UPDATES": "Checking for updates…"
   }
 }
 }

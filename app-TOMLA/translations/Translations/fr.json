@@ -12,7 +12,10 @@
     "SETTINGS": "Réglages",
     "MANUAL": "Manuel",
     "QUICK_START_GUIDE": "Guide de démarrage rapide",
-    "DISCLAIMER": "Clause de non-responsabilité"
+    "DISCLAIMER": "Clause de non-responsabilité",
+    "PUBLISHERS": "",
+    "THEMES": "",
+    "TRANSLATIONS": ""
   },
   "MAIN_MENU": {
     "MENU_TITLE": "Menu principal",
@@ -33,6 +36,7 @@
   },
   "QUICK_START_GUIDE": {
     "WELCOME_TITLE": "Bienvenue",
+    "FIRST_START_TITLE": "",
     "WELCOME_HEADER_1": "À quoi sert cette application ?",
     "WELCOME_PARAGRAPH_1": "L’application TOMLA ou The Offline Multifunctional Language App, convient pour s’exercer aux langues et faire des recherches linguistiques hors ligne. Grâce aux exercices linguistiques, vous pouvez améliorer votre vocabulaire grâce à des mots et à des courtes phrases classés par catégories. Vous pouvez vous exercer à ces mots et phrases de différentes façons : avec des questionnaires à choix multiple vous interrogeant sur des termes choisis de façon aléatoire, et avec des exercices d’écriture au cours desquels vous tapez un terme dans une langue étrangère. Vous pouvez aussi chercher des termes.",
     "WELCOME_HEADER_2": "Facilement adaptable.",
@@ -159,7 +163,12 @@ Dans les 'Paramétrages généraux', vous pouvez choisir la langue de l’applic
     "DATASET_LABEL_SOURCE": "Source",
     "DATASET_LABEL_TARGET": "Objectif",
     "BUTTONS_SELECT_DATASET": "Choisissez une base données",
-    "BUTTONS_MANAGE_DATASET": "Gérez les bases de données"
+    "BUTTONS_MANAGE_DATASET": "Gérez les bases de données",
+    "CHECK_FOR_UPDATES": "",
+    "CHECK_NOW_FOR_UPDATES": "",
+    "EDIT_THEME": "",
+    "CHECK_UPDATES_DIALOG_TITLE": "",
+    "CHECK_UPDATES_DIALOG_TEXT": ""
   },
   "CATEGORIES": {
     "RESULTS": "Résultats",
@@ -189,7 +198,24 @@ Dans les 'Paramétrages généraux', vous pouvez choisir la langue de l’applic
     "RESULT_SCORE_6": "Suffisant, essayez de plus vous entraîner",
     "RESULT_SCORE_7": "Bien, continuez !",
     "RESULT_SCORE_8": "Très bien, continuez !",
-    "RESULT_SCORE_9": "Excellent, continuez !"
+    "RESULT_SCORE_9": "Excellent, continuez !",
+    "CHOICE_TYPE": "",
+    "CHOICE_TYPE_ANSWER_1": "",
+    "CHOICE_TYPE_ANSWER_2": "",
+    "REPEAT_QUESTIONS": "",
+    "REPEAT_QUESTIONS_ANSWER_1": "",
+    "REPEAT_QUESTIONS_ANSWER_2": "",
+    "SELECT_TRAININGSET_TITLE": "",
+    "SELECT_TRAININGSET_TEXT": "",
+    "TRANSLATION_OF": "",
+    "TO": "",
+    "DATASET_OWNER": "",
+    "WHAT_IS_THE": "",
+    "OF": "",
+    "ANSWER": "",
+    "QUIT_TRAINING": "",
+    "CREATED": "",
+    "ALREADY_EXIST": ""
   },
   "BUTTONS": {
     "OK": "OK",
@@ -211,7 +237,12 @@ Dans les 'Paramétrages généraux', vous pouvez choisir la langue de l’applic
     "TRAINING_SETS": "Séries d'exercices",
     "TRAINING_BACK": "Retour à l'accueil",
     "TRAINING_BACK_TRAINING": "Retour aux exercices",
-    "TRAINING_SAVE": "Sauvegarder la série d'exercices"
+    "TRAINING_SAVE": "Sauvegarder la série d'exercices",
+    "INFORMATION": "",
+    "REMOVE": "",
+    "DOWNLOAD_MULTMEDIA": "",
+    "MULTIMEDIA_BLACKLIST": "",
+    "GO_UPDATES": ""
   },
   "WARNINGS": {
     "STORAGE_TITLE": "Pas assez de place pour sauvegarder",
@@ -254,7 +285,22 @@ Dans les 'Paramétrages généraux', vous pouvez choisir la langue de l’applic
     "MISSING_SUBTITLE": "Contactez l'éditeur",
     "TRAINING_SAVE_TITLE": "Sauvegarder les exercices",
     "TRAINING_SAVE_INPUT_PLACEHOLDER": "Donnez un nom à la série d'exercices",
-    "LINK_403": "Accès refusé pour le lien web, demander le lien web correctement à votre l’editeur s’il vous plait"
+    "LINK_403": "Accès refusé pour le lien web, demander le lien web correctement à votre l’editeur s’il vous plait",
+    "NO_DATASET_ROWS": "",
+    "TRAINING_UNDER_LIMIT": "",
+    "TRAINING_UNDER_LIMIT_TEXT": "",
+    "TRAINING_ABOVE_LIMIT": "",
+    "TRAINING_ABOVE_LIMIT_TEXT": "",
+    "TRAINING_NOT_ENOUGH_QUESTIONS": "",
+    "TRAINING_NOT_ENOUGH_QUESTIONS_TEXT": "",
+    "TRAINING_NOT_ALLOWED_INPUT": "",
+    "TRAINING_NOT_ALLOWED_INPUT_TEXT": "",
+    "NO_TRAININGSETS_TITLE": "",
+    "NO_TRAININGSETS_CONTENT": "",
+    "START_QUIZ_LATER": "",
+    "START_QUIZ_LATER_TEXT": "",
+    "ALREADY_EXIST": "",
+    "NO_PUBLISHER": ""
   },
   "LINKS": {
     "NO_CONNECTION": "Pas de connexion internet",
@@ -274,7 +320,22 @@ Dans les 'Paramétrages généraux', vous pouvez choisir la langue de l’applic
     "EXTRA_INFORMATION": "Informations supplémentaires",
     "LEVEL": "Niveau",
     "LABEL": "Étiquette",
-    "NOTES": "Notes"
+    "NOTES": "Notes",
+    "LEVELS": "",
+    "LABELS": "",
+    "IMAGES": "",
+    "VIDEOS": ""
+  },
+  "GENERAL": {
+    "FILTERING": "",
+    "LOADING": "",
+    "REMOVE": "",
+    "DOWNLOAD_DATASET": "",
+    "UPDATED": "",
+    "UPDATE": "",
+    "UPDATES": "",
+    "REFRESH_DATASET": "",
+    "CHECKING_FOR_UPDATES": ""
   }
 }
 }

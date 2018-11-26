@@ -1,7 +1,6 @@
 {
     "Fonts": [{
-        "key": "nl",
-        "fontFile": "SitiMaesaroh.woff"
+        "key": "de",
+        "fontFile": "SitiMaesaroh.woff2"
     }]
 }
-
