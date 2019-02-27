@@ -1,39 +1,19 @@
 {
-    "List": [{
-            "publisher_folder_name": ["app-TOMLA"],
-            "dataset_folder_name": ["themes"],
-            "sheet_name": ["Manifest"],
-            "col_name_list": ["Name metadata field", "Value", "Notes"],
-            "row_list": [
-                ["Dataset type", "Themes", "#"],
-                ["Dataset name", "App themes", "Themes for the TOMLA app"],
-                ["Version number", "1.0.0", "#"],
-                ["Version date", "20181018", "#"],
-                ["Author", "TOMLA", "#"],
-                ["Publisher", "TOMLA", "The Offline Multi-functional Language App"],
-                ["Publisher short name", "TOMLA", "#"],
-                ["Organisation", "TOMLA", "https://github.com/tomla-app"],
-                ["E-mail", "tomla(dot)app(at)gmail(dot)com", "Allow for 2 weeks to respond!"],
-                ["Content License", "CC-BY-SA", "Creative Commons licentie: https://creativecommons.org/licenses/by-sa/3.0/deed.nl"]
-            ]
-        },
-        {
-            "publisher_folder_name": ["app-TOMLA"],
-            "dataset_folder_name": ["translations"],
-            "sheet_name": ["Manifest"],
-            "col_name_list": ["Name metadata field", "Value", "Notes"],
-            "row_list": [
-                ["Dataset type", "Translations", "#"],
-                ["Dataset name", "translations", "This are NL, DE, EN and FR i18n files, for the TOMLA UI."],
-                ["Version number", "1.0.1", "Also intended to test the 2 TOMLA multimedia dataset types with multimedia files."],
-                ["Version date", "20181018", "#"],
-                ["Author", "TOMLA", "#"],
-                ["Publisher", "TOMLA", "The Offline Multi-functional Language App"],
-                ["Publisher short name", "TOMLA", "#"],
-                ["Organisation", "TOMLA", "#"],
-                ["E-mail", "tomla(dot)app(at)gmail(dot)com", "#"],
-                ["Content License", "(C) TOMLA", "All rights reserved! This dataset is not for free reuse! For testing purposes only!"]
-            ]
-        }
-    ]
+"List":[
+{
+"publisher_folder_name":["app-TOMLA"],
+"dataset_folder_name":["Themes"],
+"sheet_name":["Manifest"],
+"col_name_list":["Name metadata field", "Value", "Notes"],
+"row_list":[["Dataset type", "Themes", "Dataset with themes for the TOMLA mobile app."], ["Dataset name", "TOMLA Themes", "Themes with keyword \u2192 values. Every keyword gets used inside the TOMLA app to receive the value (see translations)"], ["Version number", "0.0.1", "The app uses 48 theme variables."], ["Version date", "20181025", "#"], ["Author", "TOMLA", "This spreadsheet is converted with the tfg.py conversion script. See the TOMLA Manual."], ["Publisher", "TOMLA", "#"], ["Publisher short name", "TOMLA", "The Offline Multi-functional Language App"], ["Organisation", "TOMLA", "https://github.com/tomla-app"], ["E-mail", "tomla(dot)app(at)gmail(dot)com", "E-mail address publisher"], ["Content License", "CC-BY-SA", "Creative Commons licentie: https://creativecommons.org/licenses/by-sa/3.0/legalcode"]]
+}
+,
+{
+"publisher_folder_name":["app-TOMLA"],
+"dataset_folder_name":["Translations"],
+"sheet_name":["Manifest"],
+"col_name_list":["Name metadata field", "Value", "Notes"],
+"row_list":[["Dataset type", "Translations", "Dataset with translations for the TOMLA mobile app."], ["Dataset name", "TOMLA Translations", "Translations of all display texts and 2 built-in manuals (Quick Start Guide + User Manual)."], ["Version number", "0.0.8", "The app uses 241 text variables that have translations in 4 base languages: EN, F, D and NL."], ["Version date", "20181112", "English is used as the default language when a variable or translation for a variable is missing."], ["Author", "TOMLA", "This spreadsheet is converted with the tfg.py conversion script. See the TOMLA Manual."], ["Publisher", "TOMLA", "#"], ["Publisher short name", "TOMLA", "The Offline Multi-functional Language App"], ["Organisation", "TOMLA", "https://github.com/tomla-app"], ["E-mail", "tomla(dot)app(at)gmail(dot)com", "E-mail address publisher"], ["Content License", "CC-BY-SA", "Creative Commons licentie: https://creativecommons.org/licenses/by-sa/3.0/legalcode"]]
+}
+]
 }

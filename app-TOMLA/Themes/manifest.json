@@ -1,0 +1,5 @@
+{
+"sheet_name":["Manifest"],
+"col_name_list":["Name metadata field", "Value", "Notes"],
+"row_list":[["Dataset type", "Themes", "Dataset with themes for the TOMLA mobile app."], ["Dataset name", "TOMLA Themes", "Themes with keyword \u2192 values. Every keyword gets used inside the TOMLA app to receive the value (see translations)"], ["Version number", "0.0.1", "The app uses 48 theme variables."], ["Version date", "20181025", "#"], ["Author", "TOMLA", "This spreadsheet is converted with the tfg.py conversion script. See the TOMLA Manual."], ["Publisher", "TOMLA", "#"], ["Publisher short name", "TOMLA", "The Offline Multi-functional Language App"], ["Organisation", "TOMLA", "https://github.com/tomla-app"], ["E-mail", "tomla(dot)app(at)gmail(dot)com", "E-mail address publisher"], ["Content License", "CC-BY-SA", "Creative Commons licentie: https://creativecommons.org/licenses/by-sa/3.0/legalcode"]]
+}
