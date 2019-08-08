@@ -157,7 +157,7 @@
     "DISCLAIMER_PARAGRAPH_2":["This application does not store any personal information."],
     "DISCLAIMER_PARAGRAPH_3":["The Netherlands Ministry of Defence has made this mobile application and website(s) available for users with the greatest possible care, but it does not guarantee that it will be virus-free, nor that the mobile application and website(s) will always be available and work faultlessly. Despite the unfaltering care and attention that has been put into compiling this application, it is possible that information that is published will be incomplete or incorrect. The Netherlands Ministry of Defence retains the right to unilaterally change the content of this mobile application and the associated website(s) and the text of this page at any time."],
     "DISCLAIMER_PARAGRAPH_4":["This app has been developed for the language training purposes of TalenCentrum Defensie, the language institute of the Netherlands Defence Academy."],
-    "DISCLAIMER_PARAGRAPH_5":["App version 1.0 - 2018, \u00a9 Copyright Netherlands Ministry of Defence, all rights reserved."]
+    "DISCLAIMER_PARAGRAPH_5":["App version 1.x - 2019, \u00a9 Copyright Netherlands Ministry of Defence, all rights reserved."]
   },
   "SETTINGS": {
     "GENERAL_TITLE":["General"],
@@ -184,7 +184,7 @@
     "TRANSLATION_TITLE":["Selected app translation"],
     "WEBLINKS_TITLE":["Selected weblinks dataset"],
     "DATASET_SELECTED_SUCCESS":["Selection succesfully saved!"],
-    "DATASET_SELECTED_FAIL":["unfortunately something went wrong by saving your selection!"],
+    "DATASET_SELECTED_FAIL":["Unfortunately something went wrong when saving your selection!"],
     "DATASET_NAME":["Name"],
     "NONE_SELECTED":["No dataset selected."],
     "LAST_UPDATE":["Last update"],
@@ -387,7 +387,7 @@
     "LEVEL":["Skill Level"],
     "LABEL":["Label"],
     "NOTES":["Notes"],
-    "IMAGES":["Afbeeldingen"],
+    "IMAGES":["Images"],
     "VIDEO":["Videos"]
   },
   "WORD_DETAIL": {
@@ -415,12 +415,12 @@
     "CONFIG":["Configuring"],
     "CHECK_FILE_PERMISSIONS":["Checking file permissions\u2026"],
     "CHECK_CAMERA_PERMISSIONS":["Checking camera permissions\u2026"],
-    "CHECKING_TOMLA_UPDATES":["Checking for TOMLA publisher updates\u2026"],
+    "CHECKING_TOMLA_UPDATES":["Checking for updates of the TOMLA publisher\u2026"],
     "INSTALL_APP_DATASETS":["Installing themes and translations\u2026"],
     "INSTALL_CONTENT_DATASETS":["Installing weblinks\u2026"],
     "LOADING_LOCAL_PUBLISHERS":["Loading local publishers\u2026"],
     "CHECK_PUBLISHER":["Checking publisher\u2026"],
-    "RECEIVING_LICENSE":["Receiving content license..."]
+    "RECEIVING_LICENSE":["Getting license text for dataset\u2026"]
   },
   "FILTER": {
     "FILTERS":["Filters"],
@@ -429,7 +429,7 @@
     "NO_LEVEL_FILTERS":["No level filters for this sheet."],
     "NO_LABEL_FILTERS":["No label filters for this sheet."],
     "SHOW":["Show"],
-    "RESULTS":["results"]
+    "RESULTS":["Results"]
   }
 }
 }

@@ -1,7 +1,7 @@
 {
 "themeName":"Desert theme",
-"abBackgroundImage":"Action_Bar_DesertTheme.svg",
 "splashscreenImage":"Splash_Screen_DesertTheme.svg",
+"abBackgroundImage":"Action_Bar_DesertTheme.svg",
 "toggleCheckedColor":"#906b46",
 "abBackgroundColor":"#906b46",
 "menuAbBackgroundColor":"#906b46",

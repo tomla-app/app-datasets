@@ -1,10 +1,10 @@
 {
 "List":[
 {
-"manifest_json":[909],
+"manifest_json":[1211],
 "themes_json":[422],
 "folder_name":["Themes"],
-"folder_size":[1331]
+"folder_size":[1633]
 }
 ,
 {
@@ -27,7 +27,7 @@
 ,
 {
 "Folder_name":["RoyalOrangeTheme"],
-"Folder_size":[72509],
+"Folder_size":[338163],
 "File_list":["Splash_Screen_RoyalOrangeTheme.svg", "theme.json"]
 }
 ,

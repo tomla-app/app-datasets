@@ -1,7 +1,7 @@
 {
 "themeName":"Dark theme",
-"abBackgroundImage":"#",
 "splashscreenImage":"Splash_Screen_DarkTheme.svg",
+"abBackgroundImage":"#",
 "toggleCheckedColor":"#212121",
 "abBackgroundColor":"#212121",
 "menuAbBackgroundColor":"#424242",

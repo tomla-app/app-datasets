@@ -157,7 +157,7 @@
     "DISCLAIMER_PARAGRAPH_2":["Deze applicatie slaat geen persoonlijke informatie op."],
     "DISCLAIMER_PARAGRAPH_3":["Het ministerie van Defensie stelt de mobiele applicatie met de grootst mogelijke zorg beschikbaar ten behoeve van gebruikers, maar garandeert niet dat deze vrij zal zijn van virussen, noch dat de mobiele applicatie te allen tijde beschikbaar is en foutloos zal werken. Ondanks de constante zorg en aandacht die aan de samenstelling van deze applicatie wordt besteed, is het mogelijk dat informatie die hier wordt gepubliceerd onvolledig of onjuist is. Het ministerie van Defensie behoudt zich het recht voor om de inhoud van deze mobiele applicatie en de tekst van deze pagina op elk gewenst moment naar eigen inzicht te wijzigen."],
     "DISCLAIMER_PARAGRAPH_4":["Deze App is ontwikkeld door het TCD van de Nederlandse Defensie Academie."],
-    "DISCLAIMER_PARAGRAPH_5":["App versie 1.0 \u2013 2018, \u00a9 Copyright Ministerie van Defensie, alle rechten voorbehouden."]
+    "DISCLAIMER_PARAGRAPH_5":["App versie 1.x \u2013 2019, \u00a9 Copyright Ministerie van Defensie, alle rechten voorbehouden."]
   },
   "SETTINGS": {
     "GENERAL_TITLE":["Algemeen"],
@@ -184,7 +184,7 @@
     "TRANSLATION_TITLE":["Geselecteerde app vertaling"],
     "WEBLINKS_TITLE":["Geselecteerde weblinks dataset"],
     "DATASET_SELECTED_SUCCESS":["Selectie succesvol opgeslagen!"],
-    "DATASET_SELECTED_FAIL":["Helaas is er een fout gevonden bij het selecteren!"],
+    "DATASET_SELECTED_FAIL":["Helaas ging er iets fout bij het opslaan van uw selectie!"],
     "DATASET_NAME":["Naam"],
     "NONE_SELECTED":["Geen dataset geselecteerd."],
     "LAST_UPDATE":["Laatste keer ge-update"],
@@ -204,7 +204,7 @@
     "RESULTS":["Resultaten"],
     "FEEDBACK_POSITIVE":["Dat antwoord is correct"],
     "FEEDBACK_NEGATIVE":["Dat antwoord is fout!"],
-    "FEEDBACK_NEGATIVE_SHOW":["Juiste antwoord"],
+    "FEEDBACK_NEGATIVE_SHOW":["Juist antwoord"],
     "QUESTION":["Vraag"],
     "RESULT_LABEL_RESULT":["Resultaat"],
     "RESULT_LABEL_QUESTIONS":["Aantal vragen:"],
@@ -283,7 +283,7 @@
     "READ_LICENSE":["Lees licentie"],
     "ACCEPT":["Accepteer"],
     "SAVE":["Opslaan"],
-    "RESET_FONTSIZE":["Reset letter grootte"]
+    "RESET_FONTSIZE":["Reset lettergrootte"]
   },
   "WARNINGS": {
     "STORAGE_TITLE":["Niet genoeg opslag"],
@@ -354,7 +354,7 @@
     "NO_TRAININGSETS_MAIN":["Er zijn geen trainingsets op dit moment, voeg eentje toe door op het \u201cplus\u201d icoontje te klikken in de rechter boven hoek."],
     "NO_SAVED_TRAINING_TITLE":["Geen opgeslagen training"],
     "NO_SAVED_TRAINING_TEXT":["Er is geen opgeslagen training die hervat kan worden."],
-    "TRAINING_LOADING_ERROR":["Er is iets fout gegaan bij het inladen van een training. Probeer een een taaldataset opnieuw te selecteren."],
+    "TRAINING_LOADING_ERROR":["Er is iets fout gegaan bij het inladen van een training. Probeer een taaldataset opnieuw te selecteren."],
     "SAVING_TRAINING_FAILED":["Er is iets fout gegaan bij het opslaan van de training."],
     "FILTERS_BIG_RESULT":["Je gaat filteren op alle resultaten, dit kan voor grotere datasets leiden tot lange wachttijden."],
     "FILTERS_BIG_RESULT_TITLE":["Veel resultaten"],
@@ -370,7 +370,7 @@
     "KEY_UNSUCCESFULLY_SAVED":["Er is iets fout gegaan bij het aanpassen van de dataset sleutel."],
     "ACCEPT_LICENSE_AGREEMENT":["Accepteer de licentie overeenkomst."],
     "EDIT_KEY_TITLE":["Sleutel aanpassen"],
-    "EDIT_KEY_TEXT":["Gebruik dit velt om een sleutel die je van een uitgever ontvangen hebt, aan te passen."],
+    "EDIT_KEY_TEXT":["Gebruik dit veld om een sleutel die je van een uitgever ontvangen hebt, aan te passen."],
     "EDIT_KEY_INPUT":["Sleutel"],
     "ADD_WEBLINK_DIRECTLY_TITLE":["Voeg dataset gelijk toe via weblink"],
     "ADD_WEBLINK_DIRECTLY_SUBTITLE":["Als de uitgever nog niet bestaat, wordt deze automatisch toegevoegd."]
@@ -387,8 +387,8 @@
     "LEVEL":["Moeilijkheidsgraad"],
     "LABEL":["Trefwoord"],
     "NOTES":["Notities"],
-    "IMAGES":["Images"],
-    "VIDEO":["Videos"]
+    "IMAGES":["Afbeeldingen"],
+    "VIDEO":["Video's"]
   },
   "WORD_DETAIL": {
     "AUDIO":["Audio"],
@@ -399,7 +399,7 @@
     "LEVELS":["Niveaus"],
     "LABELS":["Labels"],
     "IMAGES":["Afbeeldingen"],
-    "VIDEOS":["Videos"]
+    "VIDEOS":["Video's"]
   },
   "GENERAL": {
     "FILTERING":["Filteren"],
@@ -410,26 +410,26 @@
     "UPDATE":["Update"],
     "UPDATES":["Updates"],
     "REFRESH_DATASET":["Vernieuw dataset\u2026"],
-    "CHECKING_FOR_UPDATES":["Controlleer op updates\u2026"],
+    "CHECKING_FOR_UPDATES":["Controleer op updates\u2026"],
     "NEW_APPLICATION_VERSION":["nieuwe app versie"],
     "CONFIG":["Configureren"],
     "CHECK_FILE_PERMISSIONS":["Controleer bestand permissies\u2026"],
     "CHECK_CAMERA_PERMISSIONS":["Controleer camera permissies\u2026"],
-    "CHECKING_TOMLA_UPDATES":["Controleer TOMLA uitgever versie\u2026"],
+    "CHECKING_TOMLA_UPDATES":["Controleer op nieuwe versies van de TOMLA uitgever\u2026"],
     "INSTALL_APP_DATASETS":["Themas en vertalingen installeren\u2026"],
     "INSTALL_CONTENT_DATASETS":["Weblinks installeren\u2026"],
-    "LOADING_LOCAL_PUBLISHERS":["Lokale uitgevers inladen\u2026"],
-    "CHECK_PUBLISHER":["Uitgever controlleren\u2026"],
-    "RECEIVING_LICENSE":["License.txt aan het ophalen\u2026"]
+    "LOADING_LOCAL_PUBLISHERS":["Lokale uitgevers laden\u2026"],
+    "CHECK_PUBLISHER":["Uitgever controleren\u2026"],
+    "RECEIVING_LICENSE":["Licentietekst van dataset ophalen\u2026"]
   },
   "FILTER": {
     "FILTERS":["Filters"],
     "LEVELS":["Niveaus"],
     "LABELS":["Trefwoorden"],
-    "NO_LEVEL_FILTERS":["Geen niveau filters voor deze categorie."],
-    "NO_LABEL_FILTERS":["Geen trefwoord filters voor deze categorie."],
-    "SHOW":["weergeef"],
-    "RESULTS":["resultaten"]
+    "NO_LEVEL_FILTERS":["Geen niveaufilters voor deze categorie."],
+    "NO_LABEL_FILTERS":["Geen trefwoordfilters voor deze categorie."],
+    "SHOW":["Geef weer"],
+    "RESULTS":["Resultaten"]
   }
 }
 }

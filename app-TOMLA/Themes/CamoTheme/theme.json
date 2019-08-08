@@ -1,7 +1,7 @@
 {
 "themeName":"Camo theme",
-"abBackgroundImage":"Action_Bar_CamoTheme.svg",
 "splashscreenImage":"Splash_Screen_CamoTheme.svg",
+"abBackgroundImage":"Action_Bar_CamoTheme.svg",
 "toggleCheckedColor":"#5f8561",
 "abBackgroundColor":"#4f6f50",
 "menuAbBackgroundColor":"#4f6f50",
