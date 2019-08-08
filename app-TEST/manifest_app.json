@@ -1,0 +1,19 @@
+{
+"List":[
+{
+"publisher_folder_name":["app-TOMLA"],
+"dataset_folder_name":["Themes"],
+"sheet_name":["Manifest"],
+"col_name_list":["Name metadata field", "Value", "Notes"],
+"row_list":[["Dataset type", "Themes", "#"], ["Dataset name", "TOMLA Themes", "Dataset with themes for the TOMLA mobile app."], ["Dataset description", "TOMLA Themes", "There are 5 example themes in this dataset: Royal Orange (default theme), 2 camouflage\nthemes (Camo green theme and Desert brownish theme) a fashionable Dark theme and a yellow\nand black Tweety theme (inspired by Search & Rescue helicopters and road service vehicles).\nThis spreadsheet is converted with the tfg.py conversion script. See the TOMLA Manual!"], ["Version number", "1.0.4", "#"], ["Version date", "20190808", "#"], ["Organisation", "TOMLA", "#"], ["Website", "https://github.com/tomla-app", "#"], ["Author", "TOMLA", "The Offline Multi-functional Language App"], ["Publisher", "TOMLA", "#"], ["Publisher short name", "TOMLA", "#"], ["Publisher e-mail", "tomla(dot)app(at)gmail(dot)com", "Allow for 2 weeks to respond!"], ["Content license", "Creative Commons - CC-BY-SA", "https://creativecommons.org/licenses/by-sa/3.0/deed.nl"], ["Download key", "No", "#"], ["Trailer video file name", "#", "#"], ["Trailer video weblink", "#", "#"]]
+}
+,
+{
+"publisher_folder_name":["app-TOMLA"],
+"dataset_folder_name":["Translations"],
+"sheet_name":["Manifest"],
+"col_name_list":["Name metadata field", "Value", "Notes"],
+"row_list":[["Dataset type", "Translations", "#"], ["Dataset name", "TOMLA Translations", "Dataset with translations for the TOMLA mobile app."], ["Dataset description", "TOMLA Translations", "There are 4 default base languages: EN (English), F (French), D (German) and NL (Dutch).\nThe translations are for all display texts and 2 built-in manuals (Quick Start Guide + User Manual).\nEnglish is used as the default language when a variable or translation for a variable is missing.\nThis spreadsheet is converted with the tfg.py conversion script. See the TOMLA Manual!"], ["Version number", "0.1.2", "#"], ["Version date", "20190808", "#"], ["Organisation", "TOMLA", "#"], ["Website", "https://github.com/tomla-app", "#"], ["Author", "TOMLA", "The Offline Multi-functional Language App"], ["Publisher", "TOMLA", "#"], ["Publisher short name", "TOMLA", "#"], ["Publisher e-mail", "tomla(dot)app(at)gmail(dot)com", "Allow for 2 weeks to respond!"], ["Content license", "Creative Commons - CC-BY-SA", "https://creativecommons.org/licenses/by-sa/3.0/deed.nl"], ["Download key", "No", "#"], ["Trailer video file name", "#", "#"], ["Trailer video weblink", "#", "#"], ["Font_FR", "Purisa.woff2", "#"], ["Font_DE", "Chilanka-Regular.woff2", "#"]]
+}
+]
+}

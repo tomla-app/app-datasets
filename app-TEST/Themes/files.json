@@ -1,0 +1,40 @@
+{
+"List":[
+{
+"manifest_json":[1211],
+"themes_json":[422],
+"folder_name":["Themes"],
+"folder_size":[1633]
+}
+,
+{
+"Folder_name":["CamoTheme"],
+"Folder_size":[241311],
+"File_list":["Action_Bar_CamoTheme.svg", "Splash_Screen_CamoTheme.svg", "theme.json"]
+}
+,
+{
+"Folder_name":["DarkTheme"],
+"Folder_size":[90047],
+"File_list":["Splash_Screen_DarkTheme.svg", "theme.json"]
+}
+,
+{
+"Folder_name":["DesertTheme"],
+"Folder_size":[1682904],
+"File_list":["Action_Bar_DesertTheme.svg", "Splash_Screen_DesertTheme.svg", "theme.json"]
+}
+,
+{
+"Folder_name":["RoyalOrangeTheme"],
+"Folder_size":[338163],
+"File_list":["Splash_Screen_RoyalOrangeTheme.svg", "theme.json"]
+}
+,
+{
+"Folder_name":["TweetyTheme"],
+"Folder_size":[2013],
+"File_list":["theme.json"]
+}
+]
+}
