@@ -1,7 +1,7 @@
 {
 "List":[
 {
-"publisher_folder_name":["app-TOMLA"],
+"publisher_folder_name":["app-TEST"],
 "dataset_folder_name":["Themes"],
 "sheet_name":["Manifest"],
 "col_name_list":["Name metadata field", "Value", "Notes"],
@@ -9,7 +9,7 @@
 }
 ,
 {
-"publisher_folder_name":["app-TOMLA"],
+"publisher_folder_name":["app-TEST"],
 "dataset_folder_name":["Translations"],
 "sheet_name":["Manifest"],
 "col_name_list":["Name metadata field", "Value", "Notes"],
